@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leomar-Delacruz
-- 👀 I’m interested in Software Developer
+- 👀 I’m interested in Cyber Security Analyst
 - 🌱 I’m currently learning CSS, JAVA, HTML
-- 💞️ I’m looking to collaborate on Software Website Development
+- 💞️ I’m looking to collaborate on Cyber Security 
 - 📫 How to reach me leomar240230@gmail.com
 
 <!---
