@@ -1,0 +1,123 @@
+.front-page{
+    
+    margin-top: 60px;
+    display: grid;
+    grid: 1fr 1fr;
+
+    height: 1000px;
+
+    position:relative
+    
+}
+
+.picture{
+    position: absolute;
+    display: grid;
+    grid: 1fr;
+
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.background-pic{
+    position: absolute;
+    height: 350px;
+    width: 1500px;
+    border-style: solid;
+    border-radius: 30px;
+}
+
+
+.front{
+    
+    width: 1500px;
+    height: 350px;
+}
+
+.Personal{
+    color: white;
+    position: absolute;
+    margin-left: 450px;
+}
+
+.name{
+    color: white;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 450px;
+    font-family: arial;
+    font-size: 22px;
+}
+
+.class{
+    color: white;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 450px;
+    font-family: arial;
+    font-size: 22px;
+}
+
+.dream{
+    color: white;
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 450px;
+    font-family: arial;
+    font-size: 22px;
+}
+
+.personal-account{
+    color: white;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 450px;
+    font-family: arial;
+    font-size: 22px;
+}
+
+.facebook{
+    color: white;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 450px;
+    font-family: arial;
+    font-size: 22px;
+}
+
+.instagram{
+    color: white;
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 450px;
+    font-family: arial;
+    font-size: 22px;
+}
+
+.twitter{
+    color: white;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 450px;
+    font-family: arial;
+    font-size: 22px;
+}
+
+.gmail{
+    color: white;
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 450px;
+    font-family: arial;
+    font-size: 22px;
+}
+
+a{
+    color: rgb(36, 196, 228);
+}
+
+

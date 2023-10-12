@@ -1,0 +1,53 @@
+.header{
+    height: 55px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+
+    background-color: rgb(1, 1, 1);
+
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(232, 230, 230);
+}
+
+.left-section{
+    width: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.Search-Bar{
+    font-family: Arial, Helvetica, sans-serif;
+
+    align-items: center;
+
+    border-radius: 15px;
+
+    height: 35px;
+    width: 300px;
+    background-color: rgb(60, 59, 59);
+    color: rgb(170, 170, 170);
+
+    padding-left: 10px;
+    margin-left: 10px;
+
+}
+
+.right-section{
+    width: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.About-Me{
+    color: white;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
