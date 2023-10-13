@@ -1,5 +1,5 @@
 .header{
-    height: 55px;
+    height: 90px;
 
     display: flex;
     flex-direction: row;
@@ -15,6 +15,8 @@
     border-bottom-width: 1px;
     border-bottom-style: solid;
     border-bottom-color: rgb(232, 230, 230);
+
+    z-index: 1;
 }
 
 .left-section{
