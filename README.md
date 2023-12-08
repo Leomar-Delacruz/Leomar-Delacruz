@@ -1,7 +1,7 @@
 - <h1>👋 Hi, I’m @Leomar-Delacruz </h1>
 - 👀 I’m interested in Cyber Security Analyst
 - 🌱 I’m currently learning CSS, JAVA, HTML, and PHP
-- 💞️ I’m looking to collaborate on Cyber Security 
+- 💞️ I’m looking to collaborate on Cyber Security Analyst
 - 📫 How to reach me leomar240230@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leomar-Delacruz&show_icons=true&theme=radical)
